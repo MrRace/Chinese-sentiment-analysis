@@ -1,2 +1,6 @@
-# Chinese-sentiment-analysis
-Chinese-sentiment-analysis
+# Chinese-sentiment-analysis(中文评论数据的情感分类测试)
+
+本文采用了2种方法进行测试：
+SVM和神经网络。在词向量生成的时候，采用相同的方式。
+
+可惜没有找到Glove在中文语料库上训练好的结果，后期补充用其他已经训练好的词向量。
